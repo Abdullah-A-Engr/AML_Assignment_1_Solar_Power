@@ -116,3 +116,10 @@ using the Set B public weather variables.
 ### Prediction Result
 
 ![Prediction result](results/figures/frontend_result.png)
+
+## Project Highlights
+
+- Implemented linear regression manually using NumPy.
+- Compared the normal equation, batch gradient descent, and stochastic gradient descent.
+- Evaluated models using RMSE on all test hours and daytime hours.
+- Compared local sensor weather variables with Open-Meteo public weather data.
