@@ -1,0 +1,9 @@
+metric,value
+Raw generation rows (Plant 1),68778
+Raw sensor rows (Plant 1),3182
+Timestamps in only one file,26
+Generation-only timestamps,1
+Sensor-only timestamps,25
+Hourly rows after resampling,816
+Hourly rows with missing values before handling,20
+Missing cells before handling,85
